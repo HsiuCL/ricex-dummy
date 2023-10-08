@@ -1,0 +1,25 @@
+{
+    "profile": [
+        {
+            "uid": 1,
+            "name": "Alice"
+        },
+        {
+            "uid": 2,
+            "name": "Bob"
+        },
+        {
+            "uid": 3,
+            "name": "Carl"
+        }
+    ],
+    "posts": [
+        {
+            "uid": 1,
+            "postId": 1,
+            "title": "Hello World",
+            "body": "Nulla anim officia laborum et aliquip.",
+            "img": []
+        }
+    ]
+}
